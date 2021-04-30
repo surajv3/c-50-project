@@ -1,0 +1,25 @@
+.menu{
+    background-color:  black ;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+
+.origami{
+    border: 2px solid;
+    background-color: white;
+
+    width: 310px;
+    
+
+}
